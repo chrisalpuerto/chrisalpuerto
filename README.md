@@ -33,4 +33,6 @@
 - Cloud-based video processing pipelines
 - Scalable backend systems
 
-📫 Reach me: chrisalpuerto27@gmail.com
+### Connect with me: 
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chrisalpuerto27@gmail.com)
