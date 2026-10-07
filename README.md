@@ -1,5 +1,5 @@
 # Hey, I'm Chris 👋
-<h3 align="center"> Full-Stack Engineer (Backend-Focused) | Incoming Intern @ Paramount | Cloud, DevOPs, APIs, Backend </h3>
+<h3 align="center"> Full-Stack Engineer (Backend-Focused) | Current SWE @ Paramount+ | Cloud, DevOPs, APIs, Backend </h3>
 
 ## Tech Stack
 
